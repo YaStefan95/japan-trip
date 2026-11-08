@@ -1,0 +1,190 @@
+{
+  "andy": {
+    "src": "/images/andy.webp",
+    "source": "https://en.shin-hinomoto.jp/",
+    "credit": "Andy’s Shin Hinomoto · официальный сайт",
+    "original": "https://images.squarespace-cdn.com/content/v1/698de2d918767f55849e1155/97c907da-1caa-4e48-80f4-f70b2b03ce5b/andy-nighttime-view.jpg?format=1000w",
+    "file": null
+  },
+  "janai": {
+    "src": "/images/janai.webp",
+    "source": "https://janaicoffee.tokyo/",
+    "credit": "JANAI COFFEE · официальный сайт",
+    "original": "https://janaicoffee.tokyo/assets/concept-coffee1@2x.jpg",
+    "file": null
+  },
+  "koenji": {
+    "src": "/images/koenji.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Koenji_pal.JPG",
+    "credit": "Wikimedia Commons",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/0/03/Koenji_pal.JPG",
+    "file": "Koenji_pal.JPG",
+    "author": "Tyoron2",
+    "license": "CC BY-SA 3.0"
+  },
+  "shinjuku": {
+    "src": "/images/shinjuku.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Skyscrapers_of_Shinjuku_2009_January.jpg",
+    "credit": "Wikimedia Commons",
+    "original": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Skyscrapers_of_Shinjuku_2009_January.jpg/1280px-Skyscrapers_of_Shinjuku_2009_January.jpg",
+    "file": "Skyscrapers_of_Shinjuku_2009_January.jpg",
+    "author": "Morio",
+    "license": "CC BY-SA 3.0"
+  },
+  "tokyo-station": {
+    "src": "/images/tokyo-station.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Tokyo-STA_Marunouchi-Entrance_2023.jpg",
+    "credit": "Wikimedia Commons",
+    "original": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Tokyo-STA_Marunouchi-Entrance_2023.jpg/1280px-Tokyo-STA_Marunouchi-Entrance_2023.jpg",
+    "file": "Tokyo-STA_Marunouchi-Entrance_2023.jpg",
+    "author": "MaedaAkihiko",
+    "license": "CC BY-SA 4.0"
+  },
+  "meiji": {
+    "src": "/images/meiji.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Meiji_Jingu_2023-3.jpg",
+    "credit": "Wikimedia Commons",
+    "original": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Meiji_Jingu_2023-3.jpg/1280px-Meiji_Jingu_2023-3.jpg",
+    "file": "Meiji_Jingu_2023-3.jpg",
+    "author": "Akonnchiroll",
+    "license": "CC BY-SA 4.0"
+  },
+  "ginza-six": {
+    "src": "/images/ginza-six.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Ginza_Six_02.jpg",
+    "credit": "Wikimedia Commons",
+    "original": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Ginza_Six_02.jpg/1280px-Ginza_Six_02.jpg",
+    "file": "Ginza_Six_02.jpg",
+    "author": "ITA-ATU",
+    "license": "CC BY-SA 4.0"
+  },
+  "ginza": {
+    "src": "/images/ginza.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Ginza-WAKO_at_night.jpg",
+    "credit": "Wikimedia Commons",
+    "original": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Ginza-WAKO_at_night.jpg/1280px-Ginza-WAKO_at_night.jpg",
+    "file": "Ginza-WAKO_at_night.jpg",
+    "author": "Kakidai",
+    "license": "CC BY-SA 4.0"
+  },
+  "nezu": {
+    "src": "/images/nezu.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Nezu_Shrine_2010.jpg",
+    "credit": "Wikimedia Commons",
+    "original": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Nezu_Shrine_2010.jpg/1280px-Nezu_Shrine_2010.jpg",
+    "file": "Nezu_Shrine_2010.jpg",
+    "author": "Wiiii",
+    "license": "CC BY-SA 3.0"
+  },
+  "disney": {
+    "src": "/images/disney.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Tokyo_Disneyland_Cinderella_Castle_2023-07-02.jpg",
+    "credit": "Wikimedia Commons",
+    "original": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Tokyo_Disneyland_Cinderella_Castle_2023-07-02.jpg/1280px-Tokyo_Disneyland_Cinderella_Castle_2023-07-02.jpg",
+    "file": "Tokyo_Disneyland_Cinderella_Castle_2023-07-02.jpg",
+    "author": "LMP 2001",
+    "license": "CC BY-SA 4.0"
+  },
+  "jomo": {
+    "src": "/images/jomo.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Jomo-kogen_sta_east.jpg",
+    "credit": "Wikimedia Commons",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Jomo-kogen_sta_east.jpg",
+    "file": "Jomo-kogen_sta_east.jpg",
+    "author": "Filler",
+    "license": "CC BY-SA 3.0"
+  },
+  "asakusa": {
+    "src": "/images/asakusa.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Sensoji_2023.jpg",
+    "credit": "Wikimedia Commons",
+    "original": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Sensoji_2023.jpg/1280px-Sensoji_2023.jpg",
+    "file": "Sensoji_2023.jpg",
+    "author": "Akonnchiroll",
+    "license": "CC0"
+  },
+  "akihabara": {
+    "src": "/images/akihabara.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Sotokanda%2C_Akihabara_Electric_Town_at_night_20231114.png",
+    "credit": "Wikimedia Commons",
+    "original": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Sotokanda%2C_Akihabara_Electric_Town_at_night_20231114.png/1280px-Sotokanda%2C_Akihabara_Electric_Town_at_night_20231114.png",
+    "file": "Sotokanda,_Akihabara_Electric_Town_at_night_20231114.png",
+    "author": "Phineyes",
+    "license": "CC0"
+  },
+  "nakano": {
+    "src": "/images/nakano.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Nakano_broadway_entrance.JPG",
+    "credit": "Wikimedia Commons",
+    "original": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Nakano_broadway_entrance.JPG/1280px-Nakano_broadway_entrance.JPG",
+    "file": "Nakano_broadway_entrance.JPG",
+    "author": "User:Kentin",
+    "license": "CC BY-SA 3.0"
+  },
+  "meguro": {
+    "src": "/images/meguro.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Meguro_River_Spring_2014(2).jpg",
+    "credit": "Wikimedia Commons",
+    "original": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Meguro_River_Spring_2014%282%29.jpg/1280px-Meguro_River_Spring_2014%282%29.jpg",
+    "file": "Meguro_River_Spring_2014(2).jpg",
+    "author": "Aw1805",
+    "license": "CC BY-SA 3.0"
+  },
+  "ueno": {
+    "src": "/images/ueno.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Ueno_park.jpg",
+    "credit": "Wikimedia Commons",
+    "original": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Ueno_park.jpg/1280px-Ueno_park.jpg",
+    "file": "Ueno_park.jpg",
+    "author": "Bernard Gagnon",
+    "license": "CC BY-SA 3.0"
+  },
+  "kiwami": {
+    "src": "/images/kiwami.webp",
+    "source": "https://kiwami.top/en-us/pages/shop-info",
+    "credit": "KIWAMI · официальный сайт",
+    "original": "https://kiwami.top/cdn/shop/files/c88bf8939f5cf80606042e2a70d73eee.png?width=1000",
+    "file": null
+  },
+  "onsen": {
+    "src": "/images/onsen.webp",
+    "source": "https://www.takaragawa.com/english.html",
+    "credit": "Takaragawa Onsen · официальный сайт",
+    "original": "https://www.takaragawa.com/slide/top/02.jpg",
+    "file": null
+  },
+  "shibuya": {
+    "src": "/images/shibuya.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Shibuya_skyline_from_Tokyu_Plaza_in_Omotesando%2C_Harajuku%2C_Tokyo%2C_2024_May.jpg",
+    "credit": "Wikimedia Commons",
+    "original": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Shibuya_skyline_from_Tokyu_Plaza_in_Omotesando%2C_Harajuku%2C_Tokyo%2C_2024_May.jpg/1280px-Shibuya_skyline_from_Tokyu_Plaza_in_Omotesando%2C_Harajuku%2C_Tokyo%2C_2024_May.jpg",
+    "author": "Ximonic (Simo Räsänen)",
+    "license": "CC BY-SA 4.0"
+  },
+  "a10": {
+    "src": "/images/a10.webp",
+    "source": "https://www.tablecheck.com/en/a10",
+    "credit": "A10 · TableCheck",
+    "original": "https://1.image.cdn.tablecheck.com/unsafe/full-fit-in/1200x630/smart/https%3A%2F%2Fcdn3.tablecheck.com%2Fimages%2F61b1d0a2663b03469578d0c8%2Fimages%2Fmd%2Fimg_PistaColada.jpg%3F1639043234"
+  },
+  "tsite": {
+    "src": "/images/tsite.webp",
+    "source": "https://store.tsite.jp/daikanyama/about/",
+    "credit": "Daikanyama T-Site · официальный сайт",
+    "original": "https://store.tsite.jp/static_contents/site/tsite/daikanyama/img/about/key.jpg"
+  },
+  "roppongi": {
+    "src": "/images/roppongi.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Roppongi_night.jpg",
+    "credit": "Wikimedia Commons",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/7/75/Roppongi_night.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "author": "Manone",
+    "license": "Public domain"
+  },
+  "travelers": {
+    "src": "/images/travelers.webp",
+    "source": "https://www.travelers-company.com/about",
+    "credit": "Traveler’s Company · официальный сайт",
+    "original": "https://www.travelers-company.com/wp-content/themes/traveralers/images/tfa/img_01.png"
+  }
+}
